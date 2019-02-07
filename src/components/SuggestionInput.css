@@ -1,0 +1,16 @@
+#suggestionTextInput {
+    width: 80%;
+    font-size: 16px;
+    display: block;
+    margin: 20px auto;
+
+}
+
+#suggestionSubmitButton {
+    padding: 10px;
+    border: 0;
+    background: #e0499a;
+    color: #fff;
+    padding: .5em 1em;
+    font-size: 18px;
+}

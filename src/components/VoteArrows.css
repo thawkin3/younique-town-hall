@@ -1,0 +1,11 @@
+.voteArrow {
+    padding: 10px;
+    border: 0;
+    background: #e0499a;
+    color: #fff;
+    padding: .5em 1em;
+}
+
+.voteArrow.voteArrowLeft {
+    margin-right: 1em;
+}
