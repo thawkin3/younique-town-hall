@@ -1,4 +1,6 @@
-This is a basic React+Redux example built using create-react-app. It can be used as a walking skeleton for your base React+Redux app which you can then build out. It contains all the basic boilerplate code for action creators, action types, reducers, and initial state.
+Town hall app for making suggestions which people can then upvote or downvote. Great for company town halls, meetings, and suggestion boxes.
+
+http://younique-townhall.s3-website-us-west-2.amazonaws.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
